@@ -132,6 +132,6 @@ input {
 
 #hasil {
   background-color: tomato;
-  border-radius: 50px;
+  border-radius: 31% 69% 32% 68% / 64% 22% 78% 36% ;
   align-items: center;
 }
